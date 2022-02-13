@@ -2,7 +2,6 @@ import 'dart:developer';
 import 'dart:io';
 
 import 'package:dio/dio.dart';
-import 'package:flutter/material.dart';
 import 'package:flutter_clean_architecture/src/core/utils/constants.dart';
 import 'package:flutter_clean_architecture/src/data/api/result.dart';
 
