@@ -5,7 +5,7 @@ class Source extends Equatable {
     this.id,
     this.name,
   });
-  final int? id;
+  final String? id;
   final String? name;
 
   @override

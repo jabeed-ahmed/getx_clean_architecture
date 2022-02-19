@@ -16,7 +16,10 @@ dependencies:
   dartz: ^0.10.1
   equatable: ^2.0.3
   dio: ^4.0.4
-
+  get: ^4.6.1
+  get_it: ^7.2.0
+  connectivity_plus: ^2.2.0
+  
 dev_dependencies:
   flutter_test:
     sdk: flutter
